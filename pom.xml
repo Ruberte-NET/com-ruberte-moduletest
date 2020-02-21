@@ -7,6 +7,9 @@
     <version>1.0-SNAPSHOT</version>
     <dependencies/>
     <build>
+        <!-- Maven Plugin for JLink not present as it is under development and in pre-release status
+             to see JLink in usage, reference the buildModuleAsStanaloneApp.sh
+        -->
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
