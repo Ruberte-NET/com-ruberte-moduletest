@@ -1,6 +1,7 @@
 # ruberte.com build paths
 out/**/*
 out-standalone/**/*
+
 # Compiled class file
 *.class
 
