@@ -1,6 +1,16 @@
 # ruberte.com build paths
 out/**/*
 out-standalone/**/*
+.build.sh.swp
+
+#Eclipse
+.project
+
+# Maven
+target/**/*.*
+
+# OSX
+*.DS_Store
 
 # Compiled class file
 *.class
